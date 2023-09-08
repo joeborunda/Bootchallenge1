@@ -2,6 +2,6 @@
 
 ## Bootcamp Challenge 1
 
-This is the firs project for the TecBootcamp.
+This is the first project for the TecBootcamp.
 
 
