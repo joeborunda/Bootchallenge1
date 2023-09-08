@@ -1,7 +1,21 @@
-# Bootchallenge1
+# Horiseon Challenge
 
 ## Bootcamp Challenge 1
 
-This is the first project for the TecBootcamp.
+The HTML file was optimize with basic HTML semantic elements
+
+Added alt properties to images.
+
+Divided sections appropriately. 
 
 
+
+##Deployment
+
+The deployment page is the following:
+
+https://joeborunda.github.io/Horiseon-challenge1/
+
+Mock image:
+
+![Alt text](https://yourimageshare.com/ib/K4441GtSc8 "horiseon")
