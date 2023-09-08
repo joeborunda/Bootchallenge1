@@ -10,7 +10,7 @@ Divided sections appropriately.
 
 
 
-##Deployment
+## Deployment
 
 The deployment page is the following:
 
@@ -18,4 +18,4 @@ https://joeborunda.github.io/Horiseon-challenge1/
 
 Mock image:
 
-![Alt text](https://yourimageshare.com/ib/K4441GtSc8 "horiseon")
+
