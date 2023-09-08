@@ -18,4 +18,4 @@ https://joeborunda.github.io/Horiseon-challenge1/
 
 Mock image:
 
-
+![challenge](/assets/images/horiseon.png "Image").
